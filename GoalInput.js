@@ -1,5 +1,5 @@
 import { useState } from "react";
-import { StyleSheet, View, Text } from "react-native";
+import { StyleSheet, View, TextInput, Button } from "react-native";
 
 
 function GoalInput(props) {
